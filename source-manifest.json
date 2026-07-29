@@ -1,0 +1,66 @@
+{
+    "schema_version":  1,
+    "bundle":  "takeoff-practice-plans-v1.zip",
+    "published":  "2026-07-19",
+    "owner":  "Takeoff Field Tools",
+    "synthetic":  true,
+    "customer_data":  false,
+    "not_for_construction":  true,
+    "plan_sets":  [
+                      {
+                          "file":  "drywall-office-renovation-plans.pdf",
+                          "title":  "Lakeview Office Interior Renovation",
+                          "trade":  "Drywall and metal framing",
+                          "pages":  2,
+                          "plan_sheet":  "A1.01",
+                          "answer_sheet":  "A5.01",
+                          "bytes":  6084,
+                          "sha256":  "7a4779cbcdbf35662671c4c5cf65969eac6d32ab86c0ea97585894a8c4084d72",
+                          "source":  "scripts/generate-trade-qa-plans.py --trade drywall"
+                      },
+                      {
+                          "file":  "concrete-service-yard-plans.pdf",
+                          "title":  "Riverside Service Yard",
+                          "trade":  "Concrete and flatwork",
+                          "pages":  2,
+                          "plan_sheet":  "C1.01",
+                          "answer_sheet":  "C5.01",
+                          "bytes":  5548,
+                          "sha256":  "7eee1eb773f76ee1e56de7c1be35698fe2c3a13cd85aae8428fc3812568c074c",
+                          "source":  "scripts/generate-concrete-qa-plan.py"
+                      },
+                      {
+                          "file":  "clinic-interior-finishes-plans.pdf",
+                          "title":  "Harborview Clinic Interior Refresh",
+                          "trade":  "Painting and flooring",
+                          "pages":  2,
+                          "plan_sheet":  "A9.01",
+                          "answer_sheet":  "A9.02",
+                          "bytes":  5978,
+                          "sha256":  "cc31f7f919d1dd885fe8681bfdcee2b8a8d7389e6d8df6ea5b50394a3bc591e2",
+                          "source":  "scripts/generate-finishes-qa-plan.py"
+                      },
+                      {
+                          "file":  "landscape-courtyard-plans.pdf",
+                          "title":  "Oakridge Community Courtyard",
+                          "trade":  "Landscaping and irrigation",
+                          "pages":  2,
+                          "plan_sheet":  "L1.01",
+                          "answer_sheet":  "L5.01",
+                          "bytes":  9857,
+                          "sha256":  "918436aee0795577c2acad91545e3aaebbcf106de5fabb505674b60ee7c16803",
+                          "source":  "scripts/generate-trade-qa-plans.py --trade landscaping"
+                      },
+                      {
+                          "file":  "cedar-street-remodel-plans.pdf",
+                          "title":  "Cedar Street Interior Remodel",
+                          "trade":  "Mixed-trade remodel",
+                          "pages":  2,
+                          "plan_sheet":  "A2.01",
+                          "answer_sheet":  "A6.01",
+                          "bytes":  6015,
+                          "sha256":  "c70b643543a587acd2398f3e90c9d9adf331b4d2ee56d839f050eeb1f4f6459b",
+                          "source":  "scripts/generate-remodel-qa-plan.py"
+                      }
+                  ]
+}
