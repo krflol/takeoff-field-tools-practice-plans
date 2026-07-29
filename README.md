@@ -6,6 +6,13 @@ Five synthetic construction plan sets for practicing quantity takeoff without ri
 
 Use paper scale, a PDF markup tool, a spreadsheet, or the takeoff software you already have. The goal is to measure first, compare second, and make every difference explainable.
 
+## Download the complete pack
+
+- [Download all five practice plans as one ZIP](https://github.com/krflol/takeoff-field-tools-practice-plans/releases/download/v1.0.0/takeoff-practice-plans-v1.zip)
+- [Download the eight-page instructor guide](https://github.com/krflol/takeoff-field-tools-practice-plans/releases/download/v1.0.0/takeoff-practice-instructor-pack-v1.pdf)
+
+These are the stable `v1.0.0` files. Prefer one exercise at a time? Use the individual PDFs below.
+
 ## Download the exercises
 
 | Trade | Exercise | Checks | PDF |
