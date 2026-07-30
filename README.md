@@ -37,6 +37,10 @@ For an instructor or team session, use the [eight-page facilitator guide](plans/
 
 The interactive scorecard, individual previews, and complete bundle are available on the [free practice-plan page](https://takeofffieldtools.com/construction-takeoff-practice-plans.html?utm_source=github&utm_medium=repository&utm_campaign=helpful_tools&utm_content=practice_plan_library&ref=owned_practice_github).
 
+## Record the quantities in Excel
+
+The [free construction quantity takeoff template](https://takeofffieldtools.com/construction-quantity-takeoff-sheet.html?utm_source=github&utm_medium=repository&utm_campaign=helpful_tools&utm_content=quantity_takeoff_excel&ref=owned_practice_github) provides a blank 100-row workbook, a worked example, visible formulas, unit and category dropdowns, source and assumption fields, and a review checklist. It downloads directly with no account or email gate.
+
 ## Important boundaries
 
 - Every drawing is synthetic. No customer drawings or project data are included.
