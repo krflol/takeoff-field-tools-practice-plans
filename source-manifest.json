@@ -2,10 +2,18 @@
     "schema_version":  1,
     "bundle":  "takeoff-practice-plans-v1.zip",
     "published":  "2026-07-19",
+    "updated":  "2026-07-30",
     "owner":  "Takeoff Field Tools",
     "synthetic":  true,
     "customer_data":  false,
     "not_for_construction":  true,
+    "license":  {
+                    "identifier":  "CC-BY-4.0",
+                    "name":  "Creative Commons Attribution 4.0 International",
+                    "url":  "https://creativecommons.org/licenses/by/4.0/",
+                    "attribution":  "Takeoff Field Tools, Free Construction Takeoff Practice Plans with Answers, https://takeofffieldtools.com/construction-takeoff-practice-plans.html, CC BY 4.0.",
+                    "file":  "LICENSE.txt"
+                },
     "plan_sets":  [
                       {
                           "file":  "drywall-office-renovation-plans.pdf",

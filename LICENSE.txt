@@ -1,0 +1,28 @@
+Takeoff Field Tools construction takeoff practice plans
+
+Copyright (c) 2026 Keenan Finkelstein / Takeoff Field Tools.
+
+The five synthetic practice-plan PDFs, their answer schedules, and the written
+practice instructions in this repository are licensed under the Creative Commons
+Attribution 4.0 International license (CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt the licensed material for any purpose, including
+commercially, provided you give appropriate credit, link to the license, and
+indicate whether changes were made.
+
+Suggested attribution:
+
+"Takeoff Field Tools, Free Construction Takeoff Practice Plans with Answers,
+https://takeofffieldtools.com/construction-takeoff-practice-plans.html,
+CC BY 4.0."
+
+This license does not grant rights in the Takeoff Field Tools name or logo as
+trademarks, does not cover website or application code or linked third-party
+material, and does not imply endorsement. Adapted copies must not imply that
+Takeoff Field Tools reviewed or endorsed them.
+
+The plans remain synthetic practice aids. They are not for construction,
+permitting, procurement, contracting, code compliance, structural design, or
+market-price benchmarking.

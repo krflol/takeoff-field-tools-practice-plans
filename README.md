@@ -8,10 +8,10 @@ Use paper scale, a PDF markup tool, a spreadsheet, or the takeoff software you a
 
 ## Download the complete pack
 
-- [Download all five practice plans as one ZIP](https://github.com/krflol/takeoff-field-tools-practice-plans/releases/download/v1.0.0/takeoff-practice-plans-v1.zip)
-- [Download the eight-page instructor guide](https://github.com/krflol/takeoff-field-tools-practice-plans/releases/download/v1.0.0/takeoff-practice-instructor-pack-v1.pdf)
+- [Download all five practice plans as one ZIP](https://github.com/krflol/takeoff-field-tools-practice-plans/releases/download/v1.1.0/takeoff-practice-plans-v1.zip)
+- [Download the eight-page instructor guide](https://github.com/krflol/takeoff-field-tools-practice-plans/releases/download/v1.1.0/takeoff-practice-instructor-pack-v1.pdf)
 
-These are the stable `v1.0.0` files. Prefer one exercise at a time? Use the individual PDFs below.
+These are the stable `v1.1.0` files. The ZIP includes the CC BY 4.0 license, source manifest, written practice instructions, and all five plan sets. Prefer one exercise at a time? Use the individual PDFs below.
 
 ## Download the exercises
 
@@ -49,7 +49,15 @@ The [free construction quantity takeoff template](https://takeofffieldtools.com/
 - A PDF viewer or printer can resize a sheet. Verify calibration from a labeled dimension before measuring.
 - A correct practice result does not prove that a real bid is complete.
 
-See [PERMISSION.md](PERMISSION.md) for the existing use permission.
+## Reuse and adapt
+
+The five synthetic exercise PDFs, their answer schedules, and the written practice instructions are licensed under [Creative Commons Attribution 4.0 International](LICENSE.txt). You may copy, adapt, and redistribute them, including commercially, with appropriate attribution.
+
+Suggested attribution:
+
+> Takeoff Field Tools, Free Construction Takeoff Practice Plans with Answers, https://takeofffieldtools.com/construction-takeoff-practice-plans.html, CC BY 4.0.
+
+See [LICENSE.txt](LICENSE.txt) for the complete license notice and [PERMISSION.md](PERMISSION.md) for a plain-language summary of what the license covers.
 
 ## About Takeoff Field Tools
 
