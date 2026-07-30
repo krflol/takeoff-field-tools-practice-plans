@@ -59,10 +59,6 @@ Suggested attribution:
 
 See [LICENSE.txt](LICENSE.txt) for the complete license notice and [PERMISSION.md](PERMISSION.md) for a plain-language summary of what the license covers.
 
-## About Takeoff Field Tools
+## Publisher and support
 
-**Construction takeoff and estimating software for Windows. $79 once. No subscription.**
-
-Takeoff Field Tools keeps measured scope connected to visible pricing logic, reviewable estimate outputs, and reusable estimating knowledge. [Watch the actual product workflow](https://takeofffieldtools.com/construction-takeoff-software-demo.html?utm_source=github&utm_medium=repository&utm_campaign=helpful_tools&utm_content=practice_repo_product_demo&ref=owned_practice_github).
-
-Every estimate should make the next one better.
+Published and maintained by Takeoff Field Tools. These exercises do not require an account, purchase, or commercial software. Questions and corrections are welcome at support@takeofffieldtools.com.
