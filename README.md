@@ -27,6 +27,10 @@ That is 42 quantity checks across counts, lengths, areas, and volumes.
 
 For an instructor or team session, use the [eight-page facilitator guide](plans/takeoff-practice-instructor-pack-v1.pdf).
 
+## Record the quantities in Excel
+
+Use the [free construction quantity takeoff sheet and Excel template](https://takeofffieldtools.com/construction-quantity-takeoff-sheet.html?utm_source=github&utm_medium=repository&utm_campaign=helpful_tools&utm_content=quantity_takeoff_excel&ref=owned_practice_github) to record each measurement. The direct download includes a blank 100-row workbook, a worked example, visible formulas, unit and category dropdowns, source and assumption fields, and a review checklist. No account or email is required.
+
 ## A simple practice routine
 
 1. Open only page 1 and identify the labeled dimensions, scale, scope, units, and exclusions.
@@ -36,10 +40,6 @@ For an instructor or team session, use the [eight-page facilitator guide](plans/
 5. Investigate differences before changing the answer.
 
 The interactive scorecard, individual previews, and complete bundle are available on the [free practice-plan page](https://takeofffieldtools.com/construction-takeoff-practice-plans.html?utm_source=github&utm_medium=repository&utm_campaign=helpful_tools&utm_content=practice_plan_library&ref=owned_practice_github).
-
-## Record the quantities in Excel
-
-The [free construction quantity takeoff template](https://takeofffieldtools.com/construction-quantity-takeoff-sheet.html?utm_source=github&utm_medium=repository&utm_campaign=helpful_tools&utm_content=quantity_takeoff_excel&ref=owned_practice_github) provides a blank 100-row workbook, a worked example, visible formulas, unit and category dropdowns, source and assumption fields, and a review checklist. It downloads directly with no account or email gate.
 
 ## Important boundaries
 
