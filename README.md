@@ -27,6 +27,10 @@ That is 42 quantity checks across counts, lengths, areas, and volumes.
 
 For an instructor or team session, use the [eight-page facilitator guide](plans/takeoff-practice-instructor-pack-v1.pdf).
 
+## Development and verification
+
+The public [methodology and verification record](METHODOLOGY.md) explains how the synthetic geometry, scopes, drawings, and answer schedules were developed; documents the current review status and limitations; and links a machine-readable 42-check calculation set with a reproducible audit utility. The record distinguishes completed automated and manual checks from independent professional or classroom review, which has not occurred.
+
 ## Record the quantities in Excel
 
 Use the [free construction quantity takeoff sheet and Excel template](https://takeofffieldtools.com/construction-quantity-takeoff-sheet.html?utm_source=github&utm_medium=repository&utm_campaign=helpful_tools&utm_content=quantity_takeoff_excel&ref=owned_practice_github) to record each measurement. The direct download includes a blank 100-row workbook, a worked example, visible formulas, unit and category dropdowns, source and assumption fields, and a review checklist. No account or email is required.

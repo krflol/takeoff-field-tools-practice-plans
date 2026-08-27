@@ -1,0 +1,459 @@
+{
+  "schema_version": 1,
+  "collection": "Free Construction Takeoff Practice Plans with Answers",
+  "publisher": "Takeoff Field Tools",
+  "verified_on": "2026-08-27",
+  "rounding": "ROUND_HALF_UP",
+  "plans": [
+    {
+      "file": "drywall-office-renovation-plans.pdf",
+      "answer_sheet": "A5.01",
+      "checks": [
+        {
+          "id": "DW-01",
+          "description": "P1 new partition centerline",
+          "basis": "Four declared partition segments: 45, 45, 80, and 50 feet",
+          "expression": "45 + 45 + 80 + 50",
+          "expected": "220",
+          "decimals": 0,
+          "unit": "LF",
+          "display": "220 LF"
+        },
+        {
+          "id": "DW-02",
+          "description": "P1 wall faces gross",
+          "basis": "220 feet by 10 feet high on two faces",
+          "expression": "220 * 10 * 2",
+          "expected": "4400",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "4,400 SF"
+        },
+        {
+          "id": "DW-03",
+          "description": "D1 opening deduction",
+          "basis": "Seven 3-by-7-foot openings deducted on two faces",
+          "expression": "7 * 3 * 7 * 2",
+          "expected": "294",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "294 SF"
+        },
+        {
+          "id": "DW-04",
+          "description": "P1 wall faces net",
+          "basis": "Gross wall faces less the opening deduction",
+          "expression": "4400 - 294",
+          "expected": "4106",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "4,106 SF"
+        },
+        {
+          "id": "DW-05",
+          "description": "Floor and deflection track",
+          "basis": "Two track runs for each foot of partition",
+          "expression": "220 * 2",
+          "expected": "440",
+          "decimals": 0,
+          "unit": "LF",
+          "display": "440 LF"
+        },
+        {
+          "id": "DW-06",
+          "description": "GWB ceiling gross",
+          "basis": "80-by-45-foot floor plate",
+          "expression": "80 * 45",
+          "expected": "3600",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "3,600 SF"
+        },
+        {
+          "id": "DW-07",
+          "description": "Mechanical-room ceiling deduction",
+          "basis": "10-by-10-foot mechanical room",
+          "expression": "10 * 10",
+          "expected": "100",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "100 SF"
+        },
+        {
+          "id": "DW-08",
+          "description": "GWB ceiling net",
+          "basis": "Gross ceiling less the mechanical-room deduction",
+          "expression": "3600 - 100",
+          "expected": "3500",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "3,500 SF"
+        },
+        {
+          "id": "DW-09",
+          "description": "D1 opening finish returns",
+          "basis": "Seven visible D1 opening symbols",
+          "expression": "7",
+          "expected": "7",
+          "decimals": 0,
+          "unit": "EA",
+          "display": "7 EA"
+        }
+      ]
+    },
+    {
+      "file": "concrete-service-yard-plans.pdf",
+      "answer_sheet": "C5.01",
+      "checks": [
+        {
+          "id": "CN-01",
+          "description": "S1 service-yard slab area",
+          "basis": "60-by-40-foot slab",
+          "expression": "60 * 40",
+          "expected": "2400",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "2,400 SF"
+        },
+        {
+          "id": "CN-02",
+          "description": "S1 slab concrete at 6 inches",
+          "basis": "2,400 square feet at 6 inches divided by 27 cubic feet per cubic yard",
+          "expression": "2400 * 6 / 12 / 27",
+          "expected": "44.44",
+          "decimals": 2,
+          "unit": "CY",
+          "display": "44.44 CY"
+        },
+        {
+          "id": "CN-03",
+          "description": "S1 edge-form perimeter",
+          "basis": "Perimeter of a 60-by-40-foot rectangle",
+          "expression": "2 * (60 + 40)",
+          "expected": "200",
+          "decimals": 0,
+          "unit": "LF",
+          "display": "200 LF"
+        },
+        {
+          "id": "CN-04",
+          "description": "F1 perimeter footing concrete",
+          "basis": "200 feet by 24 inches wide by 12 inches deep divided by 27",
+          "expression": "200 * (24 / 12) * (12 / 12) / 27",
+          "expected": "14.81",
+          "decimals": 2,
+          "unit": "CY",
+          "display": "14.81 CY"
+        },
+        {
+          "id": "CN-05",
+          "description": "S2 sidewalk area",
+          "basis": "40-by-5-foot sidewalk",
+          "expression": "40 * 5",
+          "expected": "200",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "200 SF"
+        },
+        {
+          "id": "CN-06",
+          "description": "S2 sidewalk concrete at 4 inches",
+          "basis": "200 square feet at exactly 4 inches divided by 27 cubic feet per cubic yard",
+          "expression": "200 * 4 / 12 / 27",
+          "expected": "2.47",
+          "decimals": 2,
+          "unit": "CY",
+          "display": "2.47 CY"
+        },
+        {
+          "id": "CN-07",
+          "description": "P1 housekeeping pads",
+          "basis": "Six visible P1 pad symbols",
+          "expression": "6",
+          "expected": "6",
+          "decimals": 0,
+          "unit": "EA",
+          "display": "6 EA"
+        }
+      ]
+    },
+    {
+      "file": "clinic-interior-finishes-plans.pdf",
+      "answer_sheet": "A9.02",
+      "checks": [
+        {
+          "id": "FN-01",
+          "description": "F1 LVT floor",
+          "basis": "40-by-45-foot finish zone",
+          "expression": "40 * 45",
+          "expected": "1800",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "1,800 SF"
+        },
+        {
+          "id": "FN-02",
+          "description": "F2 carpet tile floor",
+          "basis": "40-by-30-foot finish zone",
+          "expression": "40 * 30",
+          "expected": "1200",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "1,200 SF"
+        },
+        {
+          "id": "FN-03",
+          "description": "F3 porcelain tile floor",
+          "basis": "20-by-15-foot finish zone",
+          "expression": "20 * 15",
+          "expected": "300",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "300 SF"
+        },
+        {
+          "id": "FN-04",
+          "description": "Net painted wall faces",
+          "basis": "420 effective feet by 9 feet less 252 square feet of openings",
+          "expression": "420 * 9 - 252",
+          "expected": "3528",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "3,528 SF"
+        },
+        {
+          "id": "FN-05",
+          "description": "Painted ceilings",
+          "basis": "80-by-45-foot floor plate",
+          "expression": "80 * 45",
+          "expected": "3600",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "3,600 SF"
+        },
+        {
+          "id": "FN-06",
+          "description": "Resilient or rubber base",
+          "basis": "420 effective feet less 36 feet of door widths",
+          "expression": "420 - 36",
+          "expected": "384",
+          "decimals": 0,
+          "unit": "LF",
+          "display": "384 LF"
+        },
+        {
+          "id": "FN-07",
+          "description": "Painted hollow-metal frames",
+          "basis": "Six visible D1 through D6 frame markers",
+          "expression": "6",
+          "expected": "6",
+          "decimals": 0,
+          "unit": "EA",
+          "display": "6 EA"
+        }
+      ]
+    },
+    {
+      "file": "landscape-courtyard-plans.pdf",
+      "answer_sheet": "L5.01",
+      "checks": [
+        {
+          "id": "LS-01",
+          "description": "Courtyard gross area",
+          "basis": "100-by-60-foot courtyard",
+          "expression": "100 * 60",
+          "expected": "6000",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "6,000 SF"
+        },
+        {
+          "id": "LS-02",
+          "description": "Non-turf deductions",
+          "basis": "500 building plus 500 patio plus 250 walk plus 800 planting beds",
+          "expression": "500 + 500 + 250 + 800",
+          "expected": "2050",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "2,050 SF"
+        },
+        {
+          "id": "LS-03",
+          "description": "Net sod area",
+          "basis": "Gross courtyard less all non-turf deductions",
+          "expression": "6000 - 2050",
+          "expected": "3950",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "3,950 SF"
+        },
+        {
+          "id": "LS-04",
+          "description": "Planting bed area",
+          "basis": "Three beds of 400, 300, and 100 square feet",
+          "expression": "400 + 300 + 100",
+          "expected": "800",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "800 SF"
+        },
+        {
+          "id": "LS-05",
+          "description": "Mulch volume at 3 inches",
+          "basis": "800 square feet at 3 inches divided by 27 cubic feet per cubic yard",
+          "expression": "800 * 3 / 12 / 27",
+          "expected": "7.41",
+          "decimals": 2,
+          "unit": "CY",
+          "display": "7.41 CY"
+        },
+        {
+          "id": "LS-06",
+          "description": "Steel bed edging",
+          "basis": "Declared bed perimeters of 100, 70, and 50 feet",
+          "expression": "100 + 70 + 50",
+          "expected": "220",
+          "decimals": 0,
+          "unit": "LF",
+          "display": "220 LF"
+        },
+        {
+          "id": "LS-07",
+          "description": "Irrigation mainline and branches",
+          "basis": "Declared centerline segments of 80, 60, 70, and 50 feet",
+          "expression": "80 + 60 + 70 + 50",
+          "expected": "260",
+          "decimals": 0,
+          "unit": "LF",
+          "display": "260 LF"
+        },
+        {
+          "id": "LS-08",
+          "description": "Shade trees",
+          "basis": "Twelve visible T1 symbols",
+          "expression": "12",
+          "expected": "12",
+          "decimals": 0,
+          "unit": "EA",
+          "display": "12 EA"
+        },
+        {
+          "id": "LS-09",
+          "description": "Five-gallon shrubs",
+          "basis": "Forty-eight visible S1 symbols",
+          "expression": "48",
+          "expected": "48",
+          "decimals": 0,
+          "unit": "EA",
+          "display": "48 EA"
+        }
+      ]
+    },
+    {
+      "file": "cedar-street-remodel-plans.pdf",
+      "answer_sheet": "A6.01",
+      "checks": [
+        {
+          "id": "RM-01",
+          "description": "F1 living and dining LVT",
+          "basis": "20-by-20-foot finish zone",
+          "expression": "20 * 20",
+          "expected": "400",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "400 SF"
+        },
+        {
+          "id": "RM-02",
+          "description": "F2 kitchen tile",
+          "basis": "20-by-15-foot finish zone",
+          "expression": "20 * 15",
+          "expected": "300",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "300 SF"
+        },
+        {
+          "id": "RM-03",
+          "description": "F2 bath and entry tile",
+          "basis": "20-by-5-foot finish zone",
+          "expression": "20 * 5",
+          "expected": "100",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "100 SF"
+        },
+        {
+          "id": "RM-04",
+          "description": "New non-structural partitions",
+          "basis": "Three declared partition segments of 30, 20, and 20 feet",
+          "expression": "30 + 20 + 20",
+          "expected": "70",
+          "decimals": 0,
+          "unit": "LF",
+          "display": "70 LF"
+        },
+        {
+          "id": "RM-05",
+          "description": "Net gypsum wall faces",
+          "basis": "70 feet by 9 feet on two faces less 126 square feet of openings",
+          "expression": "70 * 9 * 2 - 126",
+          "expected": "1134",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "1,134 SF"
+        },
+        {
+          "id": "RM-06",
+          "description": "Base and wall cabinets",
+          "basis": "Two declared cabinet runs of 14 and 10 feet",
+          "expression": "14 + 10",
+          "expected": "24",
+          "decimals": 0,
+          "unit": "LF",
+          "display": "24 LF"
+        },
+        {
+          "id": "RM-07",
+          "description": "Two-foot-deep countertop",
+          "basis": "24 linear feet at 2 feet deep",
+          "expression": "24 * 2",
+          "expected": "48",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "48 SF"
+        },
+        {
+          "id": "RM-08",
+          "description": "Interior doors",
+          "basis": "Three visible D1 through D3 markers",
+          "expression": "3",
+          "expected": "3",
+          "decimals": 0,
+          "unit": "EA",
+          "display": "3 EA"
+        },
+        {
+          "id": "RM-09",
+          "description": "Plumbing fixtures",
+          "basis": "Four visible P1 through P4 markers",
+          "expression": "4",
+          "expected": "4",
+          "decimals": 0,
+          "unit": "EA",
+          "display": "4 EA"
+        },
+        {
+          "id": "RM-10",
+          "description": "Work-area ceiling paint",
+          "basis": "40-by-20-foot work area",
+          "expression": "40 * 20",
+          "expected": "800",
+          "decimals": 0,
+          "unit": "SF",
+          "display": "800 SF"
+        }
+      ]
+    }
+  ]
+}

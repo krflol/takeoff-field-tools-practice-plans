@@ -1,6 +1,6 @@
 # License and reuse
 
-The five synthetic practice-plan PDFs, their answer schedules, and the written practice instructions are licensed under the Creative Commons Attribution 4.0 International license (CC BY 4.0):
+The five synthetic practice-plan PDFs, their answer schedules, the written practice instructions, the methodology, the machine-readable quantity checks, and the verification utility are licensed under the Creative Commons Attribution 4.0 International license (CC BY 4.0):
 
 https://creativecommons.org/licenses/by/4.0/
 
