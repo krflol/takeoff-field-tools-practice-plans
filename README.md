@@ -35,6 +35,12 @@ The public [methodology and verification record](METHODOLOGY.md) explains how th
 
 Use the [free construction quantity takeoff sheet and Excel template](https://takeofffieldtools.com/construction-quantity-takeoff-sheet.html?utm_source=github&utm_medium=repository&utm_campaign=helpful_tools&utm_content=quantity_takeoff_excel&ref=owned_practice_github) to record each measurement. The direct download includes a blank 100-row workbook, a worked example, visible formulas, unit and category dropdowns, source and assumption fields, and a review checklist. No account or email is required.
 
+## Check the material behind a quantity
+
+A measured area or length is only one input to an order. Use the [free construction material reference library](https://takeofffieldtools.com/material-costs/?utm_source=github&utm_medium=repository&utm_campaign=helpful_tools&utm_content=material_reference_library&ref=owned_practice_github) to compare purchase units, product specifications, and ordering checks for 13 common materials.
+
+These source-backed guides explain what to verify before adding a supplier price to an estimate. They do not supply current local prices or establish product suitability for a project. Check the actual specification, current supplier quote, availability, taxes, delivery, and job conditions. No account or email is required.
+
 ## A simple practice routine
 
 1. Open only page 1 and identify the labeled dimensions, scale, scope, units, and exclusions.
