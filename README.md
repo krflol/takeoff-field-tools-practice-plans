@@ -41,6 +41,12 @@ A measured area or length is only one input to an order. Use the [free construct
 
 These source-backed guides explain what to verify before adding a supplier price to an estimate. They do not supply current local prices or establish product suitability for a project. Check the actual specification, current supplier quote, availability, taxes, delivery, and job conditions. No account or email is required.
 
+## Verify each sheet before measuring
+
+One PDF can contain sheets or details with different scales. The [free PDF plan scale-check guide](https://takeofffieldtools.com/pdf-plan-scale-check.html?utm_source=github&utm_medium=repository&utm_campaign=helpful_tools&utm_content=pdf_scale_check&ref=owned_practice_github) works through one synthetic 16 by 12 ft room: correct calibration gives 192 SF, while a mismatched sheet calibration gives 768 SF or 48 SF. It explains how to challenge the reference with a second independent dimension before measuring. No account, purchase, or particular software is required to read the guide.
+
+The website previews resize to the screen and are not printed calibration references. This is a separate linked article; it adds no downloadable PDF to this repository and does not change the existing five-plan pack, instructor guide, 42-check verification set, stable release files, or their license scope.
+
 ## A simple practice routine
 
 1. Open only page 1 and identify the labeled dimensions, scale, scope, units, and exclusions.
