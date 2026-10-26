@@ -47,6 +47,15 @@ One PDF can contain sheets or details with different scales. The [free PDF plan 
 
 The website previews resize to the screen and are not printed calibration references. This is a separate linked article; it adds no downloadable PDF to this repository and does not change the existing five-plan pack, instructor guide, 42-check verification set, stable release files, or their license scope.
 
+## Watch the scale and unit checks
+
+Use these optional video lessons before the exercises. Pause at each example, calculate your own result, then compare the explanation.
+
+- [One PDF, Two Scales](https://www.youtube.com/watch?v=E7ucoSntOYI) (3:12): calibrate each sheet from a known dimension and check a second span before measuring area.
+- [Three Takeoff Unit Mistakes](https://www.youtube.com/watch?v=jFxLrhG0LEY) (2:12): convert feet and inches, distinguish cubic feet from cubic yards, and keep nominal pipe size separate from measured run length.
+
+These Takeoff Field Tools videos use synthetic learning examples and AI-generated narration. The measurement checks do not require buying or using our software. The linked videos are separate from this repository's CC BY 4.0 exercise pack; its license does not extend to the videos or their separate practice worksheets.
+
 ## A simple practice routine
 
 1. Open only page 1 and identify the labeled dimensions, scale, scope, units, and exclusions.
