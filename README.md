@@ -56,6 +56,10 @@ Use these optional video lessons before the exercises. Pause at each example, ca
 
 These Takeoff Field Tools videos use synthetic learning examples and AI-generated narration. The measurement checks do not require buying or using our software. The linked videos are separate from this repository's CC BY 4.0 exercise pack; its license does not extend to the videos or their separate practice worksheets.
 
+## Review a revised drawing
+
+[Drawing Revision Takeoff](https://www.youtube.com/watch?v=KOaPj0UqmZs) (2:55) follows a synthetic room from 192 SF to 224 SF: the current total is 224 SF, while the change is +32 SF. The full perimeter changes by +4 LF; actual trim needs its own opening and scope deductions. This is a manual review method, not automatic drawing comparison, and works without our software. The video uses AI-generated narration. Its separate practice worksheet is not included in this repository, and the exercise pack's license does not extend to that worksheet or the video.
+
 ## A simple practice routine
 
 1. Open only page 1 and identify the labeled dimensions, scale, scope, units, and exclusions.
